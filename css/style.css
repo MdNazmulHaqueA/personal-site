@@ -1,0 +1,19 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  /* background-color: white; */
+  /* wont change due to browser default style to apply that 'white' color - do the following*/
+  /* border-style: none; */
+  border-style: none;
+  border-top-style: dotted;
+  /* /* height: 2px; */
+  width: 5%;
+  border-width: 5px;
+  border-color: gray;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
